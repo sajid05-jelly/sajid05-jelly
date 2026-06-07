@@ -45,18 +45,30 @@ const MohamedSajid = {
 
 <div align="center">
 
-**Languages & Markup**
+**Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**AI & Tools**
+**Frameworks & Styling**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+
+**AI & Intelligence**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 **Tools & Platforms**
@@ -74,20 +86,84 @@ const MohamedSajid = {
 
 <div align="center">
 
-### 📚 Paperino — SRM Study Hub
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3&width=100%"/>
 
-> *"One platform for every SRM student's academic need"*
+### 🪐 PAPERINO
+#### *The Universe of Study Materials for SRM Students*
+
+> **AI-Powered Academic Platform** · Built for the next generation of engineers
+
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-paperino--eta.vercel.app-00d4ff?style=for-the-badge&logoColor=white)](https://paperino-eta.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-paperino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajid05-jelly/paperino)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paperino-eta.vercel.app)
 
 </div>
 
-| Feature | Description |
-|--------|-------------|
-| 📝 Notes | Curated subject-wise notes for CSE |
-| ❓ Important Questions | Exam-focused question banks |
-| 📦 Study Materials | PDFs, references, and resources |
-| 🤖 AI-Powered | Smart tools to help students learn faster |
+<br/>
 
-[![Paperino Repo](https://img.shields.io/badge/View_Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sajid05-jelly)
+**Paperino** is a premium, AI-powered academic platform built exclusively for SRM students — a centralized universe where students access semester-wise PYQs, handwritten notes, lab manuals, and syllabus PDFs, all supercharged with intelligent AI tools.
+
+<br/>
+
+### 🌟 Core Features
+
+| ✦ Feature | 🔍 What It Does |
+|-----------|----------------|
+| 🤖 **AI PYQ Predictor** | Upload multiple past exam papers — AI cross-references them to predict the most important concepts likely to appear in your next exam |
+| 📄 **ATS Resume Analyzer** | Upload your CV and get a granular AI breakdown: formatting gaps, missing skills, keyword optimization to beat Applicant Tracking Systems |
+| 🎓 **Unified Grade Calculator** | Seamlessly integrated GPA, CGPA & Semester Marks Calculator using official SRM grading scales |
+| 💎 **Premium Glassmorphic UI** | Stunning dark-mode interface with dynamic ambient lighting, smooth hover animations, and a polished space-themed aesthetic |
+| 🔖 **Smart Bookmarks + Contributor System** | Bookmark subjects for quick access; contribute materials to earn points, climb the global leaderboard & unlock achievements |
+| 🛡️ **Admin Dashboard** | Real-time platform analytics, content distribution stats, and API limits management panel |
+
+<br/>
+
+### 🛸 Tech Stack
+
+<div align="center">
+
+**Framework & Language**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide_React-F56565?style=for-the-badge&logoColor=white)
+
+**Backend & Database**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+
+**AI & File Parsing**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![pdf-parse](https://img.shields.io/badge/pdf--parse-EC1C24?style=for-the-badge&logoColor=white)
+![mammoth](https://img.shields.io/badge/mammoth.js-6B46C1?style=for-the-badge&logoColor=white)
+
+**Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+📚 PYQs & Notes  ──►  🤖 Gemini AI  ──►  🎯 Predicted Questions
+📄 Your Resume   ──►  🤖 Gemini AI  ──►  ✅ ATS Score & Fixes
+🎓 Your Grades   ──►  🧮 Calculator ──►  📊 GPA / CGPA Result
+```
+
+[![⭐ Star Paperino](https://img.shields.io/badge/⭐_Star_this_Project-ffcc00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sajid05-jelly/paperino)
+
+</div>
 
 ---
 
