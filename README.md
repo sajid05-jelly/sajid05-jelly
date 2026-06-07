@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a0a2e,100:00d4ff&height=200&section=header&text=Mohamed%20Sajid&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=AI-Powered%20Developer%20%7C%20CSE%20%40%20SRMIST&descColor=7b8cde&descSize=18&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a0a2e,100:00d4ff&height=200&section=header&text=MOHAMED%20SAJID&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=AI-Powered%20Developer%20%7C%20CSE%20%40%20SRMIST&descColor=7b8cde&descSize=18&animation=twinkling"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Crafting+the+Future+with+Code+%F0%9F%9A%80;AI+%2B+Web+Dev+%3D+Infinite+Possibilities;Building+Tools+That+Matter+%F0%9F%8C%90;B.Tech+CSE+%40+SRMIST+%F0%9F%8E%93" alt="Typing SVG" />
@@ -21,7 +21,7 @@
 
 ```typescript
 const MohamedSajid = {
-  name        : "MOHAMED SAJID",
+  name        : "Mohamed Sajid",
   alias       : "sajid05-jelly",
   institution : "SRM Institute of Science & Technology",
   degree      : "B.Tech Computer Science Engineering",
