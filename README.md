@@ -171,14 +171,25 @@ const MohamedSajid = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajid05-jelly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=7b8cde"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid05-jelly&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajid05-jelly&theme=tokyonight" alt="Sajid GitHub Stats"/>
+&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajid05-jelly&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sajid05-jelly&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sajid05-jelly&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&background=0d1117&dates=7b8cde)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid05-jelly&theme=tokyonight" alt="Profile Activity Summary"/>
 
 </div>
 
