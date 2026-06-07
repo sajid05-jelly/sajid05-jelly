@@ -21,7 +21,7 @@
 
 ```typescript
 const MohamedSajid = {
-  name        : "Mohamed Sajid",
+  name        : "MOHAMED SAJID",
   alias       : "sajid05-jelly",
   institution : "SRM Institute of Science & Technology",
   degree      : "B.Tech Computer Science Engineering",
